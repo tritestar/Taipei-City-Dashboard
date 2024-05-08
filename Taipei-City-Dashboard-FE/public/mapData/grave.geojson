@@ -1,0 +1,532 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5362484, 25.09869118]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "士林區",
+				"FacilityName": "士林第一公墓",
+				"FacilityAddress": "位於士林區福林路與至善路1段雙溪公園停車場旁(大理石廠旁至善路1段116巷進入)",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5902408, 25.13627693]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "士林區",
+				"FacilityName": "士林第三公墓",
+				"FacilityAddress": "至善路3段336巷有一小廟前雙叉路天溪園停車場內約3公里",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5773387, 25.13970478]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "士林區",
+				"FacilityName": "士林第四公墓",
+				"FacilityAddress": "由明德樂園轉至善路3段71巷進入接平菁街,位於士林區平菁街43巷底",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5690646, 25.13970478]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "士林區",
+				"FacilityName": "士林第五公墓",
+				"FacilityAddress": "位於士林區永公路517號右側田園中央",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.541858, 25.11913621]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "士林區",
+				"FacilityName": "士林第八公墓",
+				"FacilityAddress": "位於士林區士東路353巷旁,五顯中里堂對面",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.556443, 25.14275168]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "士林區",
+				"FacilityName": "士林第十一公墓",
+				"FacilityAddress": "仰德大道進入,位於士林區永公路、菁山路交叉口,旁有球場。",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5422916, 25.09259226]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "中山區",
+				"FacilityName": "中山第一公墓",
+				"FacilityAddress": "位於中山區，依地形分別位於劍潭山凌線步徑-劍南路之福山產業道路、北安路501巷101之1號右前方100公尺及通北街118巷左側水坡地",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5853161, 25.10454673]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "內湖區",
+				"FacilityName": "內湖第三公墓",
+				"FacilityAddress": "位於內湖區碧山露營場後山，福音山私人墓園下方約200公尺，與私地緊鄰。",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5721336, 25.09933993]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "內湖區",
+				"FacilityName": "內湖第三之一公墓",
+				"FacilityAddress": "位於內湖區金龍寺往碧山露營場產業道路旁(電線杆61號旁有小路)",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6247236, 25.09260886]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "內湖區",
+				"FacilityName": "內湖第七公墓",
+				"FacilityAddress": "位於內湖區康樂街267之1號北天宮右上方",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6224798, 25.09565694]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "內湖區",
+				"FacilityName": "內湖第七之一公墓",
+				"FacilityAddress": "位於內湖區康樂街275巷右側產業道路上方",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5820906, 25.07698629]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "內湖區",
+				"FacilityName": "內湖第九公墓",
+				"FacilityAddress": "鄰近內湖區陽光街、江南街與成功路3段",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.516318, 25.15025541]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "北投區",
+				"FacilityName": "北投第八公墓",
+				"FacilityAddress": "位於北投泉源里登山路75號左側下方(由張公聖君廟進入,左手方有路可進入墓區)",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5317444, 25.15330205]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "北投區",
+				"FacilityName": "北投第九公墓",
+				"FacilityAddress": "頂湖公車站旁,東昇路116號旁進入約2400公尺",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5358537, 25.17415871]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "北投區",
+				"FacilityName": "北投第十公墓",
+				"FacilityAddress": "位於北投區湖山里竹子湖路30號正後方為陽明山國家公園規劃範圍",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5582649, 25.18905563]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "北投區",
+				"FacilityName": "北投第十一公墓",
+				"FacilityAddress": "仰道大道接菁山路接竹子湖路，位於北投區湖山里竹子湖路83號正前方200公尺處為陽明山國家公園規劃範圍,公車後山站。",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5622315, 25.02239384]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "大安區",
+				"FacilityName": "大安第六公墓",
+				"FacilityAddress": "位於大安區崇德街底(崇德街125號進入)",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "部分遷葬"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5503318, 25.01448613]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "大安區",
+				"FacilityName": "大安第九公墓",
+				"FacilityAddress": "位於大安區辛亥隧道北端右側第二殯儀館及自來水廠後方山坡地",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "部分遷葬"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5455718, 25.01322804]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "大安區",
+				"FacilityName": "古亭第十公墓",
+				"FacilityAddress": "位於大安區基隆路3段155 巷底",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5937659, 24.97188361]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "文山區",
+				"FacilityName": "木柵第六公墓",
+				"FacilityAddress": "位於文山區貓空山區",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5751229, 25.00370208]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "文山區",
+				"FacilityName": "木柵第九公墓",
+				"FacilityAddress": "近博嘉國小旁、敦南山林社區",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5524848, 25.0080587]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "文山區",
+				"FacilityName": "景美第五公墓",
+				"FacilityAddress": "位於文山區福興路78巷上方",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5535271, 25.00915446]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "文山區",
+				"FacilityName": "景美第十三公墓",
+				"FacilityAddress": "位於文山區辛亥路4段166巷上方",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6122105, 25.05437889]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "南港區",
+				"FacilityName": "南港第一公墓",
+				"FacilityAddress": "位於南港忠孝東路7段臺鐵貨運服務所對面",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6185571, 25.03281685]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "南港區",
+				"FacilityName": "南港第八公墓",
+				"FacilityAddress": "位於南港區研究院路3段161巷邊側山上",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6179281, 25.02844785]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "南港區",
+				"FacilityName": "南港第九公墓",
+				"FacilityAddress": "位於南港區研究院路3段161巷邊側山上",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6022402, 25.02687084]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "南港區",
+				"FacilityName": "南港第十公墓",
+				"FacilityAddress": "位於南港區研究院路4段50巷邊小徑山上",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6205354, 25.038615]
+			},
+			"properties": {
+				"FacilityClassification": "列管公墓",
+				"District": "南港區",
+				"FacilityName": "南港第十一公墓",
+				"FacilityAddress": "位於南港區南深路19巷前方",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5803375, 25.01136453]
+			},
+			"properties": {
+				"FacilityClassification": "公墓",
+				"District": "文山區",
+				"FacilityName": "富德公墓",
+				"FacilityAddress": "文山區木柵路4段159巷130號",
+				"Recent": "受理申請七年輪葬",
+				"OpenDay": "全年",
+				"OpenTime": "08:00~16:00",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5278247, 25.13869528]
+			},
+			"properties": {
+				"FacilityClassification": "公墓",
+				"District": "北投區",
+				"FacilityName": "陽明山第一公墓",
+				"FacilityAddress": "臺北市北投區泉源路220號",
+				"Recent": "受理預留壽穴申請",
+				"OpenDay": "全年",
+				"OpenTime": "08:00~16:00",
+				"Remarks": "無"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5643411, 25.0177571]
+			},
+			"properties": {
+				"FacilityClassification": "公墓",
+				"District": "信義區",
+				"FacilityName": "信義示範公墓",
+				"FacilityAddress": "位於大安區崇德街底",
+				"Recent": "全面禁葬",
+				"OpenDay": "全年",
+				"OpenTime": "全日",
+				"Remarks": "無"
+			}
+		}
+	]
+}
