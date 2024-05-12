@@ -1,0 +1,17 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5531238,25.01254006 ]
+    },
+    "properties": {
+    "設施名稱":"臺北市第二殯儀館火化場",
+    "設施地址":"106218臺北市辛亥路3段330號   ",
+    "連絡電話":"02-87329686"
+    }
+  }
+]
+}

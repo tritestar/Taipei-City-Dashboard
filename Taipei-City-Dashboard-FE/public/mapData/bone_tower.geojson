@@ -1,0 +1,44 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5913779,25.01172087 ]
+    },
+    "properties": {
+    "name":"富德靈骨樓",
+    "address":"11656臺北市文山區木柵路五段43巷190號 ",
+    "openingHours":"申請塔位(含寵物灑葬)：\n週一至週六上午八時至下午四時\n安厝、遷出、祭拜：\n每日上午八時至下午四時 \n",
+    "telephone":"02-87329686 分機 36001-2 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5240665,25.14553579 ]
+    },
+    "properties": {
+    "name":"陽明山靈骨塔",
+    "address":"11247臺北市北投區泉源路220號 ",
+    "openingHours":"申請塔位(含寵物灑葬)：\n週一至週六上午八時至下午四時\n安厝、遷出、祭拜：\n每日上午八時至下午四時 ",
+    "telephone":"02-87329686 分機  33001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5235079,25.13910393 ]
+    },
+    "properties": {
+    "name":"陽明山臻愛樓",
+    "address":"11247臺北市北投區泉源路220號 ",
+    "openingHours":"申請塔位(含寵物灑葬)：\n週一至週六上午八時至下午四時\n安厝、遷出、祭拜：\n每日上午八時至下午四時 ",
+    "telephone":"02-87329686 分機 33001"
+    }
+  }
+]
+}

@@ -1,0 +1,31 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5356105,25.06365747 ]
+    },
+    "properties": {
+    "name":"第一殯儀館",
+    "address":"10482臺北市中山區民權東路二段145號",
+    "openingHours":"週一至週六\n上午八時至下午四時\n遺體探視\n上午十時至下午八時\n遺體冷藏\n二十四小時\n",
+    "telephone":"02-87329686 分機 29057"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5522866,25.01520504 ]
+    },
+    "properties": {
+    "name":"第二殯儀館",
+    "address":"10668臺北市大安區辛亥路三段330號\n",
+    "openingHours":"週一至週六 （禮堂、火化爐訂租申請）\n上午八點至下午四點 \n遺體接運：\n二十四小時，設籍臺北市亡者，接運地點含北北基桃。設籍外縣市亡者，接運地點限臺北市。\n遺體探視：\n上午十時至下午八時\n遺體冷藏：\n二十四小時",
+    "telephone":"02-87329686 分機 29758~61"
+    }
+  }
+]
+}
