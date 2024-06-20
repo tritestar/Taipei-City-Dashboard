@@ -362,6 +362,37 @@ export const maplayerCommonLayout = {
 			1.4,
 		],
 	},
+	"symbol-farmer": {
+		"icon-image": "farmer",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			10.99,
+			0.7,
+			14,
+			1.1,
+			22,
+			1.4,
+		],
+	},
+	"symbol-social": {
+		"icon-image": "social",
+	},
+	"symbol-labor": {
+		"icon-image": "labor",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			10.99,
+			0.7,
+			14,
+			1.1,
+			22,
+			1.4,
+		],
+	},
 	"symbol-grave": {
 		"icon-image": "grave",
 		"icon-size": [
